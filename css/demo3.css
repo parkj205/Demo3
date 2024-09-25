@@ -1,0 +1,28 @@
+body{
+    background-color:deeppink;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkgreen;
+    text-align: center;
+}
+
+h1{
+    font-size: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform:uppercase;
+    letter-spacing: 10px;
+    color: aqua;
+    text-align: center;
+}
+
+p{font-style: italic;}
+text-align: center;
+
+ul{
+    list-style-type: none;
+}
+
+div{
+    background-color: rgba(90, 255, 61, 0.56);
+  
+}

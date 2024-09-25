@@ -1,0 +1,15 @@
+body{
+    background-color: #00ff00;
+    font-family: 'Courier New', Courier, monospace;
+    color:black;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color:red;
+    letter-spacing: 100px;
+    font-size:100px;
+}
